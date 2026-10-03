@@ -8,6 +8,6 @@ export const API_URL = import.meta.env.DEV
 // Optional: profile picture upload (Cloudinary unsigned preset).
 // Leave empty to hide the upload field and use initials instead.
 export const CLOUDINARY = {
-  cloudName: "",
+  cloudName: "dxomcbuoo",
   uploadPreset: "connectx_profiles",
 };
